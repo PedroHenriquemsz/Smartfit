@@ -1,5 +1,7 @@
 # Smartfit
 
+Esse é um pequeno projeto que realizei utilizando angular 17, para poder utilizar novos conceitos, como por exemplo standalone components
+
 Link do Desafio: https://github.com/bioritmo/front-end-code-challenge-smartsite/tree/master
 
 ![image](https://github.com/PedroHenriquemsz/Smartfit/assets/76978119/4dea0f52-8ed9-47b3-969e-8de0b956f6a2)
