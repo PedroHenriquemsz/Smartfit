@@ -1,7 +1,9 @@
 # Smartfit
 PT-BR
 Esse é um Desafio proposto pela Smartfit em 2020 que realizei utilizando angular 17, para poder utilizar novos conceitos, como por exemplo standalone components.
+
 EN
+
 This is a challenge proposed by Smartfit in 2020 that I completed using Angular 17, aiming to explore new concepts, such as standalone components.
 
 ![image](https://github.com/PedroHenriquemsz/Smartfit/assets/76978119/4dea0f52-8ed9-47b3-969e-8de0b956f6a2)
@@ -20,13 +22,13 @@ PT-BR
 ## Regras de negócio
 - Filtrar unidades abertas ou fechadas
 - Filtrar unidades por período de funcionamento
--Caso não encontre unidades, mostrar uma menssagem ao usuário "Nenhuma unidade encontrada"
+- Caso não encontre unidades, mostrar uma menssagem ao usuário "Nenhuma unidade encontrada"
 - Validar para mostrar ícones corretos de acordo com o status
--Link do Desafio: https://github.com/bioritmo/front-end-code-challenge-smartsite/tree/master
+- Link do Desafio: https://github.com/bioritmo/front-end-code-challenge-smartsite/tree/master
 
 EN:
 ## Features
--Loads units from the JSON file https://test-frontend-developer.s3.amazonaws.com/data/locations.json using the GET method
+- Loads units from the JSON file https://test-frontend-developer.s3.amazonaws.com/data/locations.json using the GET method
 - Retrieves all units
 - Searches units with filters
 - Displays a forecast of found results
